@@ -12,7 +12,7 @@ namespace WebSearchQuickstart
     {
         // In production, make sure you're pulling the subscription key from secured storage.
 
-        private static string _subscriptionKey = "1c0f93c848564574ace94f832881f9ad";
+        private static string _subscriptionKey = "API_KEY";
         private static string _baseUri = "https://api.bing.microsoft.com/v7.0/search";
 
         // The user's search string.
